@@ -10,20 +10,26 @@ export class ProductsPage implements OnInit {
     {
       name: 'Guitarra Eléctrica',
       description: 'Una guitarra eléctrica de alta calidad para músicos profesionales.',
-      price: 150.00,
-      image: 'assets/img/instrumento1.jpg'
+      price: 250.000,
+      image: 'assets/640.webp'
     },
     {
       name: 'Pedal de Efectos',
       description: 'Un pedal de efectos versátil para mejorar tu sonido.',
-      price: 75.00,
-      image: 'assets/img/accesorio1.jpg'
+      price: 45.000,
+      image: 'assets/Source-Audio-Soundblox-Dual-Expression-Pedal-left-angle.jpg'
     },
     {
       name: 'Cuerdas de Guitarra',
       description: 'Cuerdas de guitarra duraderas para un sonido impecable.',
-      price: 15.00,
-      image: 'assets/img/accesorio2.jpg'
+      price: 35.000,
+      image: 'assets/cuerrdas de guitarra.jpg'
+    },
+    {
+      name: 'Pack de Uñetas',
+      description: 'Cuerdas de guitarra duraderas para un sonido impecable.',
+      price: 15.000,
+      image: 'assets/uñetas-celuloide-2.jpg'
     }
   ];
 
